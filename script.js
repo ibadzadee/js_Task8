@@ -11,3 +11,15 @@ divs.forEach(function(element , index){
         element.style.background = "blue"
     }
 })
+
+// divs.forEach(function(element , index){
+//     if(index % 2 === 1){
+//         element.classList.add = "red"
+//     }
+//     else{
+//         element.classList.add = "yellow"
+//     }
+//     if((index +1) %5 === 0){
+//         element.classList.add = "blue"
+//     }
+// })
